@@ -128,7 +128,7 @@ Registration_Form/
   "name": "string",
   "email": "string"
 }
-``` |
+
 
 ## 🔧 Technologies Used
 
@@ -169,36 +169,21 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👤 Connect With Me
 
-<div align="center">
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://lively-dodol-cc397c.netlify.app)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sunbyte16)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-kumar-bb88bb31a/)
 
-</div>
-
 ---
+![Created By](https://img.shields.io/badge/Created%20By-Sunil%20Sharma-blue?style=for-the-badge)
 
-<div align="center">
+Made with ❤️ and ☕
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Created%20By-Sunil%20Sharma-blue?style=for-the-badge" alt="Created By Sunil Sharma" />
-</p>
+![Built With Love](https://forthebadge.com/images/badges/built-with-love.svg)
 
-<p align="center">
-  Made with ❤️ and ☕
-</p>
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-</p>
 
-</div>
 
-## 🙏 Acknowledgments
-
-- [Shields.io](https://shields.io)
-- [React Icons](https://react-icons.github.io/react-icons)
 - [GitHub Pages](https://pages.github.com)
 
 - [Font Awesome](https://fontawesome.com)
+
