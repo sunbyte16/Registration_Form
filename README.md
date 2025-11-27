@@ -200,4 +200,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [Shields.io](https://shields.io)
 - [React Icons](https://react-icons.github.io/react-icons)
 - [GitHub Pages](https://pages.github.com)
+
 - [Font Awesome](https://fontawesome.com)
