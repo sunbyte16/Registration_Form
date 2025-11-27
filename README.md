@@ -123,7 +123,7 @@ Registration_Form/
 
 | Method | Endpoint | Description | Request Body |
 |--------|----------|-------------|--------------|
-| ![POST](https://img.shields.io/badge/POST-green?style=for-the-badge) | `/api/register` | Register a new user | ```json
+| ![POST](https://img.shields.io/badge/POST-green?style=for-the-badge) | `/api/register` | Register a new user | ```Sunil
 {
   "name": "string",
   "email": "string"
